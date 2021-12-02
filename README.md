@@ -77,14 +77,14 @@ In the top right menu (guacadmin)
 In the Settings
 
 - Connections
-  - Edit the ssh-local template
-    - replace the name  
-    - the ip by yours ECS IP
-    - the password
-    - the private key
+  - Edit the ssh-local template and replace :
+    - name  
+    - ip by yours ECS IP
+    - password
+    - private key
   - Save
-  - Edit the rdp-local template
-    - the ip by yours ECS IP
+  - Edit the rdp-local template and replace
+    - ip by yours ECS IP
   - Save
 
 User / password for SSH :
