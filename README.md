@@ -87,9 +87,4 @@ In the Settings
     - ip by yours ECS IP
   - Save
 
-User / password for SSH :
-
-cloud:Passw0rd21!
-
-You can also access it through SSH directly on port 4444
 
